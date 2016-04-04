@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IntroToJavaWorkshop/src/day5/252244__reitanna__rei-and-sempai-scream.wav&apos; to &apos;scream.wav&apos;" description="Rename resource &apos;252244__reitanna__rei-and-sempai-scream.wav&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/day5/252244__reitanna__rei-and-sempai-scream.wav" name="scream.wav" stamp="1448484165041" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Player.png&apos; to &apos;Game Starter Guide/src/(default package)&apos;&#x0A;- Original project: &apos;Block Escape&apos;&#x0A;- Destination element: &apos;Game Starter Guide/src/(default package)&apos;&#x0A;- Original element: &apos;Player.png&apos;" description="Copy file" destination="=Game Starter Guide/src&lt;" element1="src/Player.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1459114724938" units="0" version="1.0"/>
+</session>

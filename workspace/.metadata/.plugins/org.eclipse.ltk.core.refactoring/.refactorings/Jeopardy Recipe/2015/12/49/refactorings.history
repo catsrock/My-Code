@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;GUI.java&apos; to &apos;Level_1/src/(default package)&apos;&#x0A;- Original project: &apos;Jeopardy Recipe&apos;&#x0A;- Destination element: &apos;Level_1/src/(default package)&apos;&#x0A;- Original element: &apos;GUI.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Level_1/src&lt;" element1="/src&lt;{GUI.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1449189636493" units="1" version="1.0"/>
+</session>

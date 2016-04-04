@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/league/Desktop/Block-Escape"/>
+			<item value="/Users/league/Desktop/Game-Starter-Guide"/>
+			<item value="/Users/league/Desktop/Level1"/>
+			<item value="/Users/league/Desktop/Level4"/>
+			<item value="/Users/league/Desktop/Level-0"/>
+			<item value="/Users/league/Desktop/Eshaan_Level1"/>
+			<item value="/Users/league/Desktop/Clickers"/>
+			<item value="/Users/league/Desktop/Gridworld"/>
+			<item value="/Users/league/Desktop/Level_1"/>
+			<item value="/Users/league/Desktop/Level3"/>
+			<item value="/Users/league/Desktop/Lvl-1-code-Eclipse"/>
+			<item value="/Users/league/Desktop/Eclipse--Level-1"/>
+			<item value="/Users/league/Documents/Level_1"/>
+			<item value="/Users/league/Desktop/Level-1-"/>
+			<item value="/Users/league/Documents/level0"/>
+			<item value="/Users/league/Documents/Jeopardy-Recipe"/>
+			<item value="/Users/league/Documents/Simon-Says-Recipe"/>
+			<item value="/Users/league/Level-0"/>
+			<item value="/Users/league/Documents/IntroToJavaWorkshop"/>
+			<item value="/Users/league/Desktop/Level-1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="484" key="DIALOG_X_ORIGIN"/>
+		<item value="541" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

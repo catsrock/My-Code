@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Oncogene&apos; to &apos;OncogeneDetector&apos;&#x0A;- Original project: &apos;Level3&apos;&#x0A;- Original element: &apos;Oncogene&apos;&#x0A;- Renamed element: &apos;OncogeneDetector&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Oncogene&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Oncogene.java[Oncogene" matchStrategy="1" name="OncogeneDetector" qualified="false" references="true" similarDeclarations="false" stamp="1450044358880" textual="false" version="1.0"/>
+</session>
