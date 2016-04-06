@@ -1,0 +1,21 @@
+package day3;
+
+import javax.swing.JOptionPane;
+
+public class Java {
+	public static void main(String[] args) {
+		System.out.println("Greeting Human");
+		JOptionPane.showMessageDialog(null, "Lol");
+	JOptionPane.showMessageDialog(null, "Keith is an awesome teacher!");
+	System.out.println("The teacher assistants are great helpers.");
+	JOptionPane.showMessageDialog(null, "Everyone is awesome.");
+	JOptionPane.showInputDialog("What's your name?");
+	JOptionPane.showInputDialog("What's your favorite color?");
+	JOptionPane.showInputDialog("What's your favorite animal?");
+	String master="Hi!"
+	
+	}
+	
+	
+}
+

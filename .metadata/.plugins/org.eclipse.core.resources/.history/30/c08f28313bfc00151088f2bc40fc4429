@@ -1,0 +1,18 @@
+package day3;
+
+import javax.swing.JOptionPane;
+
+public class Personal {
+public static void main(String[] args) {
+	String alex=JOptionPane.showInputDialog("What is your bank account?");
+	int space= 12;
+	JOptionPane.showMessageDialog(null,"Thank you for telling me"+space);
+	String billy=JOptionPane.showInputDialog("What is your email password?");
+	JOptionPane.showMessageDialog(null, "Now I have your password."+billy);
+	
+	
+}
+	
+	
+}
+
